@@ -12,7 +12,7 @@
 
 <!-- GitHub Stats with Custom Gradient Color -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=dnAnh1523&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=fff&icon_color=fff&bg_color=01489C,0159AA,006AB2,0778B9,338BC5,509DCD&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=dnAnh1523&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=fff&icon_color=fff&bg_color=01489C,0159AA,006AB2,0778B9,338BC5,509DCD&theme=white" />
 </div>
 <br>
 
