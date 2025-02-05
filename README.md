@@ -22,7 +22,6 @@
 - 🌱 I’m currently learning new technologies and programming languages.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with complex coding challenges.
-- 💬 Ask me about anything related to software development.
 - 📫 How to reach me: [Email](mailto:your-email@example.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles in my free time!
@@ -37,9 +36,6 @@
 
 ### Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -49,4 +45,3 @@
 ### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile/)
